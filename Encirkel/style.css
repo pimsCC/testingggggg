@@ -1,0 +1,72 @@
+.nav-link:hover{
+    color: black !important;
+    border-bottom:black 1px solid;
+}
+.nav-link{
+    color: #59bb2b !important;
+    font-size: 17px;
+    font-size: 1.0625rem;
+}
+.nav-button{
+    border-radius: 6px;
+    padding-top: 18px;
+    padding-right: 22px;
+    padding-bottom: 18px;
+    padding-left: 22px;
+    font-family: 'Poppins',sans-serif;
+    font-weight: 500;
+    font-size: .875rem;
+    font-size: 14px;
+    line-height: 1;
+    text-transform: capitalize;
+    letter-spacing: .5px;
+    background-color: #59bb2b;
+    border:0px solid #59bb2b;
+    color: white;
+}
+.navbar{
+    background-color:white !important;
+}
+.how{
+    text-align: center;
+    color: #59bb2b;
+    font-size: 74px;
+    font-weight: 700;
+}
+.work{
+    text-align: center;
+}
+.button{
+    border-radius: 6px;
+    font-weight: 500;
+    font-size: .875rem;
+    font-size: 14px;
+    background-color: #59bb2b;
+    border:0px solid #59bb2b;
+    color: white;
+    letter-spacing: .5px;
+    width: inherit;
+    height: 45px;
+
+}
+.buttonh{
+    justify-content: center;
+    text-align: center;
+}
+.Div1{
+    /* width: fit-content; */
+}
+.caption{
+    width: fit-content;
+    padding-left: 20px;
+}
+video{
+    padding-left: 20px;
+}
+.MainDiv{
+    display: flex;
+    flex-wrap: wrap;
+}
+.para{
+    margin: 10px 10%;
+}
